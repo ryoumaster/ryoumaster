@@ -4,7 +4,6 @@
 
 <div>
  
- 🔭 I’m currently working as developer
  
  🌱 I’m currently learning **js, java, sql**
 
